@@ -2,10 +2,6 @@
 
 A simple Flappy Bird-style game built using HTML, CSS, and JavaScript. Fly the bird through the gaps between pipes and try to beat your high score!
 
-## 🎮 Demo
-
-[Play Now](#) *(replace with your live link if hosted)*
-
 ## 🚀 Features
 
 - Classic Flappy Bird mechanics  
@@ -19,3 +15,4 @@ A simple Flappy Bird-style game built using HTML, CSS, and JavaScript. Fly the b
 - HTML5  
 - CSS3  
 - JavaScript (Vanilla)
+
